@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Display_Admin_IMG.258f0917.png"
   },
   {
-    "revision": "308f649752fe3f6f519a",
+    "revision": "d80a1d7dd34c893ae32e",
     "url": "/static/css/main.d6009cad.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/Logo.fe1f8089.png"
   },
   {
-    "revision": "308f649752fe3f6f519a",
-    "url": "/static/js/main.87da25ba.chunk.js"
+    "revision": "d80a1d7dd34c893ae32e",
+    "url": "/static/js/main.93600aff.chunk.js"
   },
   {
     "revision": "9308cf66ccc36a4ac764d1dbbb11e561",
@@ -60,15 +60,15 @@ self.__precacheManifest = [
     "url": "/static/media/Any_Decision_IMG.3604c859.png"
   },
   {
-    "revision": "cf9bfb03da54471070a5d5987c6e1208",
-    "url": "/static/media/Black_Paper.cf9bfb03.png"
-  },
-  {
     "revision": "87b124343e609debf4a874e18fedbd72",
     "url": "/static/media/Mountain_Paper.87b12434.png"
   },
   {
-    "revision": "3a235e62bda5914bd11fe0cb208444c4",
+    "revision": "cf9bfb03da54471070a5d5987c6e1208",
+    "url": "/static/media/Black_Paper.cf9bfb03.png"
+  },
+  {
+    "revision": "96c8f6ceac7352fc81c12b011d78f859",
     "url": "/index.html"
   }
 ];
