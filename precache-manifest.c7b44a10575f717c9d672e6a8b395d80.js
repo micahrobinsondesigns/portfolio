@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/static/media/Display_Admin_IMG.258f0917.png"
   },
   {
-    "revision": "c85b777f56367a17dfb2",
-    "url": "/static/css/main.d6009cad.chunk.css"
+    "revision": "f90d35ad5ce4e8bdada4",
+    "url": "/static/css/main.ba9bc78a.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "0acda74f6987b559819f",
-    "url": "/static/js/2.3437a061.chunk.js"
+    "revision": "070d4cd1c5733022164a",
+    "url": "/static/js/2.418e535f.chunk.js"
   },
   {
     "revision": "33ef096702b69ef38852369d384e1c41",
@@ -36,8 +36,20 @@ self.__precacheManifest = [
     "url": "/static/media/Logo.fe1f8089.png"
   },
   {
-    "revision": "c85b777f56367a17dfb2",
-    "url": "/static/js/main.da94ebf8.chunk.js"
+    "revision": "cf9bfb03da54471070a5d5987c6e1208",
+    "url": "/static/media/Black_Paper.cf9bfb03.png"
+  },
+  {
+    "revision": "87b124343e609debf4a874e18fedbd72",
+    "url": "/static/media/Mountain_Paper.87b12434.png"
+  },
+  {
+    "revision": "325e352768c88c9795cbf6f447968ca6",
+    "url": "/static/media/Mountain_Paper-Mobile.325e3527.png"
+  },
+  {
+    "revision": "f90d35ad5ce4e8bdada4",
+    "url": "/static/js/main.0fdafa60.chunk.js"
   },
   {
     "revision": "9308cf66ccc36a4ac764d1dbbb11e561",
@@ -60,15 +72,31 @@ self.__precacheManifest = [
     "url": "/static/media/Any_Decision_IMG.3604c859.png"
   },
   {
-    "revision": "87b124343e609debf4a874e18fedbd72",
-    "url": "/static/media/Mountain_Paper.87b12434.png"
+    "revision": "9a0ee8ddcdf88d01d1924036eaa46a89",
+    "url": "/static/media/Display_Admin_IMG-Mobile.9a0ee8dd.png"
   },
   {
-    "revision": "cf9bfb03da54471070a5d5987c6e1208",
-    "url": "/static/media/Black_Paper.cf9bfb03.png"
+    "revision": "74c24e54c7caae8a2c3d2553827ea181",
+    "url": "/static/media/Price_Tags_IMG-Mobile.74c24e54.png"
   },
   {
-    "revision": "6a80b427169b379f1ecf92fcba7603ac",
+    "revision": "9e9c7b25e88c987a024e897afa6f6282",
+    "url": "/static/media/Maps_IMG-Mobile.9e9c7b25.png"
+  },
+  {
+    "revision": "1fb28ae22349326cad3342a630601d24",
+    "url": "/static/media/OCFL_IMG-Mobile.1fb28ae2.png"
+  },
+  {
+    "revision": "ab8c1d05f630aa5ee7773103ae5bbc4a",
+    "url": "/static/media/PHP_Plugins_IMG-Mobile.ab8c1d05.png"
+  },
+  {
+    "revision": "b6558bebeef372362834779c7b9614e5",
+    "url": "/static/media/Any_Decision_IMG-Mobile.b6558beb.png"
+  },
+  {
+    "revision": "1a4b45bd59dbd6ede44236a23ad760bf",
     "url": "/index.html"
   }
 ];
