@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Display_Admin_IMG-Mobile.9a0ee8dd.png"
   },
   {
-    "revision": "eaaac8d8f282a644097d",
+    "revision": "f65c7e598d637a920286",
     "url": "/static/css/main.df58c82e.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/Headshot.0f97186b.png"
   },
   {
-    "revision": "f1d97b43950da08a895dd02fe086a954",
-    "url": "/static/media/Micah-Robinson-Resume.f1d97b43.pdf"
+    "revision": "b96648922ea2cc3fbdacae557eeda595",
+    "url": "/static/media/Micah-Robinson-Resume-Print.b9664892.pdf"
   },
   {
     "revision": "eebccd3c0442446c4bef2d64a64a293d",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/Micah_Robinson_Designs.1b1fcc8d.mp4"
   },
   {
-    "revision": "eaaac8d8f282a644097d",
-    "url": "/static/js/main.fccb0239.chunk.js"
+    "revision": "f65c7e598d637a920286",
+    "url": "/static/js/main.1cdc5b87.chunk.js"
   },
   {
     "revision": "74c24e54c7caae8a2c3d2553827ea181",
@@ -84,10 +84,6 @@ self.__precacheManifest = [
     "url": "/static/media/Sticky_Note.0d34e106.png"
   },
   {
-    "revision": "b02095ba2fbd3b8219eead4bc8b7f2e6",
-    "url": "/static/media/White_Paper.b02095ba.png"
-  },
-  {
     "revision": "9fc96baba6cf70a1bea433bd30297a34",
     "url": "/static/media/Video_Border.9fc96bab.png"
   },
@@ -96,19 +92,23 @@ self.__precacheManifest = [
     "url": "/static/media/Video_Play.21c3c809.png"
   },
   {
-    "revision": "cf9bfb03da54471070a5d5987c6e1208",
-    "url": "/static/media/Black_Paper.cf9bfb03.png"
+    "revision": "b02095ba2fbd3b8219eead4bc8b7f2e6",
+    "url": "/static/media/White_Paper.b02095ba.png"
   },
   {
     "revision": "6d0fb4f5823ed5c9d6dbaf7f8136e01f",
     "url": "/static/media/Dotted_Paper.6d0fb4f5.png"
   },
   {
+    "revision": "cf9bfb03da54471070a5d5987c6e1208",
+    "url": "/static/media/Black_Paper.cf9bfb03.png"
+  },
+  {
     "revision": "d58e79f1d45f9d4429d4a5d85d89780d",
     "url": "/static/media/Sliced_Paper.d58e79f1.png"
   },
   {
-    "revision": "bc6b8ae9a2c7f22da92a78164cda6056",
+    "revision": "a55167f1f8e7cce07d0d7533c7bfc999",
     "url": "/index.html"
   }
 ];
