@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "9a0ee8ddcdf88d01d1924036eaa46a89",
-    "url": "/static/media/Display_Admin_IMG-Mobile.9a0ee8dd.png"
+    "revision": "74c24e54c7caae8a2c3d2553827ea181",
+    "url": "/static/media/Price_Tags_IMG-Mobile.74c24e54.png"
   },
   {
-    "revision": "de30653ce73f47baf9c5",
-    "url": "/static/css/main.e72330ea.chunk.css"
+    "revision": "12c222a0e48047b28885",
+    "url": "/static/css/main.e80648a6.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "45251a7902de24d51210",
-    "url": "/static/js/2.5e92fe13.chunk.js"
+    "revision": "c466f5c3056540b420fc",
+    "url": "/static/js/2.38a1d28a.chunk.js"
   },
   {
     "revision": "fe1f8089fb04fe1b797140e424803bd7",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/static/media/Micah_Robinson_Designs.1b1fcc8d.mp4"
   },
   {
-    "revision": "de30653ce73f47baf9c5",
-    "url": "/static/js/main.85cfeff2.chunk.js"
+    "revision": "9a0ee8ddcdf88d01d1924036eaa46a89",
+    "url": "/static/media/Display_Admin_IMG-Mobile.9a0ee8dd.png"
   },
   {
-    "revision": "74c24e54c7caae8a2c3d2553827ea181",
-    "url": "/static/media/Price_Tags_IMG-Mobile.74c24e54.png"
+    "revision": "12c222a0e48047b28885",
+    "url": "/static/js/main.985cab5f.chunk.js"
   },
   {
     "revision": "9e9c7b25e88c987a024e897afa6f6282",
@@ -84,12 +84,20 @@ self.__precacheManifest = [
     "url": "/static/media/Sticky_Note.0d34e106.png"
   },
   {
-    "revision": "9fc96baba6cf70a1bea433bd30297a34",
-    "url": "/static/media/Video_Border.9fc96bab.png"
+    "revision": "f049cd4bf8a2622ab49de80a2df82a5e",
+    "url": "/static/media/Old-Paper-Tags.f049cd4b.jpg"
+  },
+  {
+    "revision": "85ff25aa7558be7c63c60d4450565044",
+    "url": "/static/media/New-Paper-Tags.85ff25aa.jpg"
   },
   {
     "revision": "b02095ba2fbd3b8219eead4bc8b7f2e6",
     "url": "/static/media/White_Paper.b02095ba.png"
+  },
+  {
+    "revision": "9fc96baba6cf70a1bea433bd30297a34",
+    "url": "/static/media/Video_Border.9fc96bab.png"
   },
   {
     "revision": "21c3c809f10444dff1a84973e1132c04",
@@ -100,15 +108,15 @@ self.__precacheManifest = [
     "url": "/static/media/Black_Paper.cf9bfb03.png"
   },
   {
-    "revision": "6d0fb4f5823ed5c9d6dbaf7f8136e01f",
-    "url": "/static/media/Dotted_Paper.6d0fb4f5.png"
-  },
-  {
     "revision": "d58e79f1d45f9d4429d4a5d85d89780d",
     "url": "/static/media/Sliced_Paper.d58e79f1.png"
   },
   {
-    "revision": "d110f647e3ef4cf59d27e5c5abf43383",
+    "revision": "6d0fb4f5823ed5c9d6dbaf7f8136e01f",
+    "url": "/static/media/Dotted_Paper.6d0fb4f5.png"
+  },
+  {
+    "revision": "f64f3e16981419464389753ebb6ca7d5",
     "url": "/index.html"
   }
 ];
