@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "e3fd5c4d64f803e598140c50d55a3830",
-    "url": "/static/media/Mattress-Price-Tag.e3fd5c4d.mp4"
+    "revision": "9a12eeec426b844eec790f341763a90a",
+    "url": "/static/media/Digital-Price-Tag-Three-Vertical.9a12eeec.jpg"
   },
   {
-    "revision": "6f8f140d059595e87f3b",
-    "url": "/static/css/main.87b711f3.chunk.css"
+    "revision": "da5043bf495485ea7966",
+    "url": "/static/css/main.5e8b26fa.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "721cda98c4ebb82d4427",
-    "url": "/static/js/2.b9fb683a.chunk.js"
+    "revision": "6d96f40457fae2e3c419",
+    "url": "/static/js/2.762e70d2.chunk.js"
   },
   {
     "revision": "fe1f8089fb04fe1b797140e424803bd7",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/static/media/Fourth-Digital-Mattress-Tag.b1ca84cb.jpg"
   },
   {
-    "revision": "6f8f140d059595e87f3b",
-    "url": "/static/js/main.e0b570b6.chunk.js"
+    "revision": "e3fd5c4d64f803e598140c50d55a3830",
+    "url": "/static/media/Mattress-Price-Tag.e3fd5c4d.mp4"
   },
   {
-    "revision": "9a12eeec426b844eec790f341763a90a",
-    "url": "/static/media/Digital-Price-Tag-Three-Vertical.9a12eeec.jpg"
+    "revision": "da5043bf495485ea7966",
+    "url": "/static/js/main.00c72fe9.chunk.js"
   },
   {
     "revision": "732c2f0d9cfca590a9d2b385fe9e4161",
@@ -94,6 +94,18 @@ self.__precacheManifest = [
   {
     "revision": "1b1fcc8d6628eac7f8ee5017e6e0d88a",
     "url": "/static/media/Micah_Robinson_Designs.1b1fcc8d.mp4"
+  },
+  {
+    "revision": "aec58c3574fc231d5b726bae37d2f5db",
+    "url": "/static/media/Any-Decision-Editor.aec58c35.jpg"
+  },
+  {
+    "revision": "a988807c8b791ef086d1594c842b1957",
+    "url": "/static/media/Any-Decision.a988807c.jpg"
+  },
+  {
+    "revision": "b0d5cbacf623edd909bf8288b4b01b7b",
+    "url": "/static/media/Any-Decision.b0d5cbac.mp4"
   },
   {
     "revision": "9a0ee8ddcdf88d01d1924036eaa46a89",
@@ -128,16 +140,12 @@ self.__precacheManifest = [
     "url": "/static/media/White_Paper.b02095ba.png"
   },
   {
-    "revision": "9fc96baba6cf70a1bea433bd30297a34",
-    "url": "/static/media/Video_Border.9fc96bab.png"
-  },
-  {
     "revision": "21c3c809f10444dff1a84973e1132c04",
     "url": "/static/media/Video_Play.21c3c809.png"
   },
   {
-    "revision": "cf9bfb03da54471070a5d5987c6e1208",
-    "url": "/static/media/Black_Paper.cf9bfb03.png"
+    "revision": "9fc96baba6cf70a1bea433bd30297a34",
+    "url": "/static/media/Video_Border.9fc96bab.png"
   },
   {
     "revision": "d58e79f1d45f9d4429d4a5d85d89780d",
@@ -148,7 +156,11 @@ self.__precacheManifest = [
     "url": "/static/media/Dotted_Paper.6d0fb4f5.png"
   },
   {
-    "revision": "bb4d97f22e5d238766280c8cab18951e",
+    "revision": "cf9bfb03da54471070a5d5987c6e1208",
+    "url": "/static/media/Black_Paper.cf9bfb03.png"
+  },
+  {
+    "revision": "4b745253d8dd303d31d447f9ba5c1abf",
     "url": "/index.html"
   }
 ];
