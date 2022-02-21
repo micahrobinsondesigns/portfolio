@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/static/media/Dotted_Paper.6d0fb4f5.png"
   },
   {
-    "revision": "f6d451d84887a4abcb1302a4ab9f53aa",
+    "revision": "54de7dba6f05991829eca51289fe75a6",
     "url": "/index.html"
   }
 ];
