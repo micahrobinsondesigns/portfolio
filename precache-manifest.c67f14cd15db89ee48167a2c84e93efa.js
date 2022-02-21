@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "3b27d4bbf4d34a5cef4c3721032b5c54",
-    "url": "/static/media/Wayfinder-Editor.3b27d4bb.mp4"
+    "revision": "d04879b60a623b30f2e7",
+    "url": "/static/css/main.4ce41c82.chunk.css"
   },
   {
-    "revision": "5aeaecaabfedefb32b09",
-    "url": "/static/css/main.e4101d5e.chunk.css"
+    "revision": "d04879b60a623b30f2e7",
+    "url": "/static/js/main.31a725fb.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "b6f7a05925c22340110b",
-    "url": "/static/js/2.f0f8c6db.chunk.js"
+    "revision": "b8d60712a4837d79ce91",
+    "url": "/static/js/2.6846bf37.chunk.js"
   },
   {
     "revision": "845d53c5dd7b4acd9e46ed56db283515",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/static/media/Final-Price-Tag.c69d8d57.jpg"
   },
   {
-    "revision": "5aeaecaabfedefb32b09",
-    "url": "/static/js/main.051a6fe3.chunk.js"
+    "revision": "3b27d4bbf4d34a5cef4c3721032b5c54",
+    "url": "/static/media/Wayfinder-Editor.3b27d4bb.mp4"
   },
   {
     "revision": "aec58c3574fc231d5b726bae37d2f5db",
@@ -208,12 +208,12 @@ self.__precacheManifest = [
     "url": "/static/media/HorizontalRule.a1dc6654.png"
   },
   {
-    "revision": "21c3c809f10444dff1a84973e1132c04",
-    "url": "/static/media/Video_Play.21c3c809.png"
-  },
-  {
     "revision": "9fc96baba6cf70a1bea433bd30297a34",
     "url": "/static/media/Video_Border.9fc96bab.png"
+  },
+  {
+    "revision": "21c3c809f10444dff1a84973e1132c04",
+    "url": "/static/media/Video_Play.21c3c809.png"
   },
   {
     "revision": "b02095ba2fbd3b8219eead4bc8b7f2e6",
@@ -224,15 +224,15 @@ self.__precacheManifest = [
     "url": "/static/media/Black_Paper.cf9bfb03.png"
   },
   {
-    "revision": "6d0fb4f5823ed5c9d6dbaf7f8136e01f",
-    "url": "/static/media/Dotted_Paper.6d0fb4f5.png"
-  },
-  {
     "revision": "d58e79f1d45f9d4429d4a5d85d89780d",
     "url": "/static/media/Sliced_Paper.d58e79f1.png"
   },
   {
-    "revision": "4e7acd4173147849c86f31c8e4727279",
+    "revision": "6d0fb4f5823ed5c9d6dbaf7f8136e01f",
+    "url": "/static/media/Dotted_Paper.6d0fb4f5.png"
+  },
+  {
+    "revision": "f6d451d84887a4abcb1302a4ab9f53aa",
     "url": "/index.html"
   }
 ];
